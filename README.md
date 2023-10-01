@@ -4,5 +4,4 @@
 2. Run `npm install`
 3. Run `npm start`
 
-
 # face-recognition-smart-brain
