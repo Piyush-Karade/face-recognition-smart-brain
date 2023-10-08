@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "facerecognitionbrain": "github:piyush-karade/face-recognition-smart-brain",
+    "facerecognitionbrain": "https://face-recognition-app-backend-st3j.onrender.com",
     "particles-bg": "^2.5.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
