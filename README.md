@@ -1,7 +1,7 @@
-Front End for the app
+Kindly Read and Use the below credentials to test out the app.
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-
-# face-recognition-smart-brain
+*Register on the App.
+Select an image you want to display on the App.
+Copy the required image's address.
+Paste the address on the index bar on App.
+Voila! It opens.
