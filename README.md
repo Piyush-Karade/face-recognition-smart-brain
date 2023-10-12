@@ -1,4 +1,4 @@
-# SmartBrain - Final
+Front End for the app
 
 1. Clone this repo
 2. Run `npm install`
