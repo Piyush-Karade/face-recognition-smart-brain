@@ -12,4 +12,3 @@ root.render(<App />)
 // If using React version lower than 18:
 // ReactDOM.render(<App />, document.getElementById('root'));
 // registerServiceWorker();
-asdf
